@@ -79,4 +79,6 @@ app.get('/api/notes', (req, res) => {
     });
   });
 
-app.listen();
+app.listen(4000, () => {
+console.log("running");
+});
