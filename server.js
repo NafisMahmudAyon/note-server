@@ -11,8 +11,8 @@ app.use(cors());
 // MySQL configuration
 const connection = mysql.createConnection({
   host: '65.108.46.235',
-  user: 'sqaaonli_notes',
-  password: 'ajmdgptw1@',
+  user: 'sqaaonli_ayon',
+  password: '12345678ayon123@',
   database: 'sqaaonli_note',
 });
 
