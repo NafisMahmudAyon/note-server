@@ -79,6 +79,4 @@ app.get('/api/notes', (req, res) => {
     });
   });
 
-app.listen(() => {
-  console.log('Server is running on port 4000');
-});
+app.listen();
